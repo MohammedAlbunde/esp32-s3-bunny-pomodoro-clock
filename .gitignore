@@ -1,0 +1,7 @@
+# files the clock creates on the board (never commit these)
+wifi.json
+claude.json
+settings.json
+clock_timer.bak
+clock_new.py
+__pycache__/
